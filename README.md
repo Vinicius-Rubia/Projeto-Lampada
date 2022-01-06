@@ -1,2 +1,2 @@
 # Projeto-Lampada
-Lâmpada - Liga e Desliga
+Acende, desliga e quebra a lâmpada
